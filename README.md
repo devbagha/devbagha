@@ -1,17 +1,8 @@
-  <!---<img align="center" src=".github/workflows/bg.gif"  height=350px width=100%>-->
-
- <!--- <a href="https://linkedin.com/in/devbagha" target="_blank">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Khalid%20Bagha%20Here🤍&fontSize=30&height=120&width=100%&section=header" height=80/>
-</p></a>-->
-
 <div align='center'>
-<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
+<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
 </div><be>
-<a href='https://github.com/devbagha/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' height=120 alt='devbagha/Programming-Gifs'></a>
-
-## <img src='.github/workflows/cartoon1.gif' height=45/>  About Me:
+<img align='right' src='https://programming-gifs.cyclic.app' height=120 alt='devbagha/Programming-Gifs'>
+##   About Me:
 
   👋  Hey there, I'm Muhammad Khalid Bagha, a passionate computer science student from UIT-NED. I'm on a journey to explore the realms of technology and innovation. As an aspiring machine learning enthusiast and professional backend developer, I'm always seeking ways to bridge the gap between software and human experiences.
 - 🌟 Machine Learning Enthusiast 🚀 | Backend Developer 💻 | Open Source Contributor 👨‍💻
