@@ -6,8 +6,8 @@
 </p></a>-->
 
 <div align='center'>
-<a href="https://github.com/devbagha/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
-</a></div><be>
+<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
+</div><be>
 <a href='https://github.com/devbagha/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.cyclic.app' height=120 alt='devbagha/Programming-Gifs'></a>
 
