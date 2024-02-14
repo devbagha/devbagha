@@ -2,13 +2,15 @@
 <img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
 </div><be>
 <img align='right' src='https://programming-gifs.cyclic.app' height=120 alt='devbagha/Programming-Gifs'>
-   About Me:
+  <h1> About Me: </h1>
 
   👋  Hey there, I'm Muhammad Khalid Bagha, a passionate computer science student from UIT-NED. I'm on a journey to explore the realms of technology and innovation. As an aspiring machine learning enthusiast and professional backend developer, I'm always seeking ways to bridge the gap between software and human experiences.
 - 🌟 Machine Learning Enthusiast 🚀 | Backend Developer 💻 | Open Source Contributor 👨‍💻
 - 🐍 Python Developer | Backend Developer  [@webnike](https://webnike.com) 🌐
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbagha&label=Profile%20views&color=0e75b6&style=flat" alt="devbagha" /> </p>
 
-------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbagha" alt="devbagha" /></a> </p>
+
 
 <details>
   <summary><img src='.github/workflows/cartoon1.gif' height=40/>  <h2>Tech Stack</h2></summary>
