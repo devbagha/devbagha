@@ -2,7 +2,7 @@
 <img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
 </div><be>
 <img align='right' src='https://programming-gifs.cyclic.app' height=120 alt='devbagha/Programming-Gifs'>
-##   About Me:
+   About Me:
 
   👋  Hey there, I'm Muhammad Khalid Bagha, a passionate computer science student from UIT-NED. I'm on a journey to explore the realms of technology and innovation. As an aspiring machine learning enthusiast and professional backend developer, I'm always seeking ways to bridge the gap between software and human experiences.
 - 🌟 Machine Learning Enthusiast 🚀 | Backend Developer 💻 | Open Source Contributor 👨‍💻
