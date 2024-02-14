@@ -1,13 +1,49 @@
-<h1 align="center">Hi 👋, I'm Muhammad Khalid Bagha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+  <!---<img align="center" src=".github/workflows/bg.gif"  height=350px width=100%>-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khalid-zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-zahid" height="30" width="40" /></a>
-</p>
+ <!--- <a href="https://linkedin.com/in/devbagha" target="_blank">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Khalid%20Bagha%20Here🤍&fontSize=30&height=120&width=100%&section=header" height=80/>
+</p></a>-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div align='center'>
+<a href="https://github.com/devbagha/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
+</a></div><be>
+<a href='https://github.com/devbagha/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.cyclic.app' height=120 alt='devbagha/Programming-Gifs'></a>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" /></a></p><br><br>
+## <img src='.github/workflows/cartoon1.gif' height=45/>  About Me:
+
+  👋  Hey there, I'm Muhammad Khalid Bagha, a passionate computer science student from UIT-NED. I'm on a journey to explore the realms of technology and innovation. As an aspiring machine learning enthusiast and professional backend developer, I'm always seeking ways to bridge the gap between software and human experiences.
+- 🌟 Machine Learning Enthusiast 🚀 | Backend Developer 💻 | Open Source Contributor 👨‍💻
+- 🐍 Python Developer | Backend Developer  [@webnike](https://webnike.com) 🌐
+
+------
+
+<details>
+  <summary><img src='.github/workflows/cartoon1.gif' height=40/>  <h2>Tech Stack</h2></summary>
+  <div align='center'>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,githubactions,bash,js,scala,fastapi,django,flask,selenium,html,css,bootstrap,linux,git,postman,mysql,qt,figma" />
+  </div>
+
+</details>
+
+---
+
+<details>
+  <summary> <img src='.github/workflows/cartoon1.gif' height=40/>  <h2>GitHub Stats</h2></summary>
+
+  |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
+  |---|---|---|
+  |[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devbagha&theme=gruvbox)](https://github.com/devbagha/)|[![GitHub Streak](https://streak-stats.demolab.com?user=devbagha&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/devbagha/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devbagha&theme=gruvbox)](https://github.com/devbagha/)|
+
+
+[![devbagha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devbagha&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/devbagha/Programming-Gifs)
+<div align='center'>
+</details>
+
+
+
+
+
+
+ 
