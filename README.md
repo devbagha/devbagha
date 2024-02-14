@@ -9,7 +9,6 @@
 - 🐍 Python Developer | Backend Developer  [@webnike](https://webnike.com) 🌐
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbagha&label=Profile%20views&color=0e75b6&style=flat" alt="devbagha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbagha" alt="devbagha" /></a> </p>
 
 
 <details>
