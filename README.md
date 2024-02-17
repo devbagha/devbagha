@@ -4,9 +4,8 @@
 <img align='right' src='https://programming-gifs.cyclic.app' height=120 alt='devbagha/Programming-Gifs'>
   <h1> About Me: </h1>
 
-  👋  Hey there, I'm Muhammad Khalid Bagha, a passionate computer science student from UIT-NED. I'm on a journey to explore the realms of technology and innovation. As an aspiring machine learning enthusiast and professional backend developer, I'm always seeking ways to bridge the gap between software and human experiences.
-- 🌟 Machine Learning Enthusiast 🚀 | Backend Developer 💻 | Open Source Contributor 👨‍💻
-- 🐍 Python Developer | Backend Developer  [@webnike](https://webnike.com) 🌐
+  👋  Hey there, I'm Muhammad Khalid Bagha, apassionate backend developer with expertise in designing, developing, and implementing interactive web solutions. Currently pursuing Bachelors in Computer Science (BSCS) from UIT-NED University. I'm on a journey to explore the realms of technology and innovation and always seeking ways to bridge the gap between software and human experiences.
+- 🐍 Python Developer | Backend Developer 💻  [@webnike](https://webnike.com) 🌐
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbagha&label=Profile%20views&color=0e75b6&style=flat" alt="devbagha" /> </p>
 
 
