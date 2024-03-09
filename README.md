@@ -14,7 +14,7 @@
 <details>
   <summary><img src='.github/workflows/cartoon1.gif' height=40/>  <h2>Tech Stack</h2></summary>
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,githubactions,bash,js,fastapi,django,flask,selenium,php,laravel,asp,html,css,bootstrap,linux,git,postman,mysql,qt,figma" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,githubactions,bash,js,fastapi,django,flask,selenium,php,laravel,html,css,bootstrap,linux,git,postman,mysql,qt,figma" />
   </div>
 
 </details>
