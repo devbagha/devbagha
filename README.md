@@ -1,5 +1,5 @@
 <div align='center'>
-<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C" alt="Typing SVG" />
+<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=420&lines=Python+%7C+AI/ML+%7C+Backend-Developer+%7C+Custom Software Developer" alt="Typing SVG" />
 </div><be>
 <img align='right' src='https://programming-gifs.cyclic.app' height=120 alt='devbagha/Programming-Gifs'>
   <h1> About Me: </h1>
