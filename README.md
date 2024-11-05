@@ -16,7 +16,7 @@ Beyond the tools, I'm all about solving real-world problems using data. I believ
 
 <p align="left">
     <a href="https://www.linkedin.com/in/backend-developer-khalidbagha/">
-        <img alt="followers" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-6K-blue"/>
+        <img alt="followers" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-4K-blue"/>
     </a>
     <a href="https://github.com/devbagha?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Follow_Me-+-blue"/>
